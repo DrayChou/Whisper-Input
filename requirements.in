@@ -12,3 +12,4 @@ openai
 httpx
 requests
 opencc-python-reimplemented
+psutil
